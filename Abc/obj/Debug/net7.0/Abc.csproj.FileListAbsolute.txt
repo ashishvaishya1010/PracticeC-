@@ -1,0 +1,15 @@
+/home/ashish.vaishya/Desktop/Testing/Abc/bin/Debug/net7.0/Abc
+/home/ashish.vaishya/Desktop/Testing/Abc/bin/Debug/net7.0/Abc.deps.json
+/home/ashish.vaishya/Desktop/Testing/Abc/bin/Debug/net7.0/Abc.runtimeconfig.json
+/home/ashish.vaishya/Desktop/Testing/Abc/bin/Debug/net7.0/Abc.dll
+/home/ashish.vaishya/Desktop/Testing/Abc/bin/Debug/net7.0/Abc.pdb
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.csproj.AssemblyReference.cache
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.AssemblyInfoInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.AssemblyInfo.cs
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.csproj.CoreCompileInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.dll
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/refint/Abc.dll
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.pdb
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/Abc.genruntimeconfig.cache
+/home/ashish.vaishya/Desktop/Testing/Abc/obj/Debug/net7.0/ref/Abc.dll

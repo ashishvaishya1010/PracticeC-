@@ -1,0 +1,15 @@
+/home/ashish.vaishya/Desktop/Testing/Ashish2/bin/Debug/net7.0/Ashish2
+/home/ashish.vaishya/Desktop/Testing/Ashish2/bin/Debug/net7.0/Ashish2.deps.json
+/home/ashish.vaishya/Desktop/Testing/Ashish2/bin/Debug/net7.0/Ashish2.runtimeconfig.json
+/home/ashish.vaishya/Desktop/Testing/Ashish2/bin/Debug/net7.0/Ashish2.dll
+/home/ashish.vaishya/Desktop/Testing/Ashish2/bin/Debug/net7.0/Ashish2.pdb
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.csproj.AssemblyReference.cache
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.AssemblyInfoInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.AssemblyInfo.cs
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.csproj.CoreCompileInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.dll
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/refint/Ashish2.dll
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.pdb
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/Ashish2.genruntimeconfig.cache
+/home/ashish.vaishya/Desktop/Testing/Ashish2/obj/Debug/net7.0/ref/Ashish2.dll

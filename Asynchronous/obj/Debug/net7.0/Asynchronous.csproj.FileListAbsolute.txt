@@ -1,0 +1,15 @@
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/bin/Debug/net7.0/Asynchronous
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/bin/Debug/net7.0/Asynchronous.deps.json
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/bin/Debug/net7.0/Asynchronous.runtimeconfig.json
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/bin/Debug/net7.0/Asynchronous.dll
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/bin/Debug/net7.0/Asynchronous.pdb
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.csproj.AssemblyReference.cache
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfoInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfo.cs
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.csproj.CoreCompileInputs.cache
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.dll
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/refint/Asynchronous.dll
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.pdb
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/Asynchronous.genruntimeconfig.cache
+/home/ashish.vaishya/Desktop/Testing/Asynchronous/obj/Debug/net7.0/ref/Asynchronous.dll
